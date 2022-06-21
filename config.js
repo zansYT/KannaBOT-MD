@@ -47,7 +47,7 @@ global.sig = 'https://instagram.com/azrycb'
 global.sgh = 'https://github.com/AzRyCb'
 global.sgc = 'https://chat.whatsapp.com/BYcW7rue6fA8gNdyLPedDe'
 global.sdc = 'https://discord.gg/WEJQjugTY7'
-global.snh = 'https://nhentai.net/g/365296/'
+global.snh = 'https://github.com/AzRyCb'
 
 /*============== PAYMENT ==============*/
 global.pdana = '085795035419'
@@ -62,7 +62,6 @@ global.nomorbot = '6283879175089'
 global.nomorown = '6285795035419'
 global.namebot = 'AzBoTz'
 global.nameown = 'Az'
-
 
 /*============== STAFF ==============*/
 global.owner = [
@@ -114,7 +113,7 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '                「 AzBoTz ⁩㊣ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Lord - Khun˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '꒷꒥꒷ ‧₊˚ ꒰ฅ˘Lord - Khun˘ฅ ꒱ ‧₊˚꒷꒥꒷'
 global.wm3 = '⫹⫺ Az𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
@@ -123,7 +122,7 @@ global.author = '                「 AzBoTz あ⁩ 」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/TBVZ0YH/thumb.jpg' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/6b4b8ae2ba7f244626a6d.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/6b4b8ae2ba7f244626a6d.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://i.ibb.co/ccY2Q0k/20220429-191026.jpg', 'https://telegra.ph/file/f87047ec6e5f0d4a9ea91.jpg', 'https://telegra.ph/file/88edbb01051b397574def.jpg','https://telegra.ph/file/7957630a57078c5ec0400.jpg']
