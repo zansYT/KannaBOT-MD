@@ -53,7 +53,7 @@ conn.reply(m.chat, tqto, m, { contextInfo: { externalAdReply: {
             body: titlebot,
             description: titlebot,
             mediaType: 2,
-          thumbnail: await(await fetch(thumb2)).buffer(),
+          thumbnail: await(await fetch(thumbs)).buffer(),
          mediaUrl: sgh
         }
      }
