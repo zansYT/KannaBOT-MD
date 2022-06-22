@@ -5,7 +5,7 @@ let handler = async (m, { conn, text }) => {
     return await conn.sendMessage(m.chat, { document: sesi, mimetype: 'application/json', fileName: 'database.json' }, { quoted: m })
 }
 handler.help = ['getdb']
-handler.tags = ['owner']
+handler.tags = ['Host']
 handler.command = /^(getdb)$/i
 
 handler.owner = true
