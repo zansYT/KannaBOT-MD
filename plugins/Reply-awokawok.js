@@ -6,7 +6,7 @@ conn.sendImageAsSticker(m.chat, pick("https://telegra.ph/file/fa2bbea0f7de2575cf
 handler.customPrefix = /^(wkwkwk|awokawok|awikawok|wokwokwok)$/i
 handler.command = new RegExp
 
-module.exports = handler
+export default handler
 
 function pickRandom(list) {
     return list[Math.floor(list.length * Math.random())]
