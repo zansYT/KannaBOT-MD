@@ -47,13 +47,16 @@ https://github.com/Ameliascrf
 
 *❉ Fokus ID:*
 https://github.com/Fokusdotid
+
+*❉ AzRyCb:*
+https://github.com/AzRyCb
 `
 conn.reply(m.chat, tqto, m, { contextInfo: { externalAdReply: {
             title: `${htjava} ${namebot}`,
             body: titlebot,
             description: titlebot,
             mediaType: 2,
-          thumbnail: await(await fetch(thumbs)).buffer(),
+          thumbnail: await(await fetch(thumb)).buffer(),
          mediaUrl: sgh
         }
      }
