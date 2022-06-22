@@ -44,11 +44,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/azrycb'
-global.sgh = 'https://github.com/AzRyCb'
+global.sig = '"_"'
+global.sgh = 'https://github.com/Bot-Mdnew'
 global.sgc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd'
 global.sdc = 'https://discord.gg/WEJQjugTY7'
-global.snh = 'https://github.com/AzRyCb'
+global.snh = 'https://github.com/Bot-Mdnew'
 
 /*============== PAYMENT ==============*/
 global.pdana = '081251549899'
