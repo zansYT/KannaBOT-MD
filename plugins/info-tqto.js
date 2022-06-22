@@ -50,6 +50,9 @@ https://github.com/Fokusdotid
 
 *❉ AzRyCb:*
 https://github.com/AzRyCb
+
+*❉ DaniBotz:*
+https://github.com/Bot-Mdnew
 `
 conn.reply(m.chat, tqto, m, { contextInfo: { externalAdReply: {
             title: `${htjava} ${namebot}`,
