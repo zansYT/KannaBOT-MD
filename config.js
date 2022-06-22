@@ -10,6 +10,7 @@
 // • The.Sad.Boy01
 // • Rasel comel
 // • Xtreshe (Beban)
+// • DaniBotz Team
 // • Dll
 
 //[!] Jangan Dihapus, mending ditambahin 
@@ -45,29 +46,29 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/azrycb'
 global.sgh = 'https://github.com/AzRyCb'
-global.sgc = 'https://chat.whatsapp.com/BYcW7rue6fA8gNdyLPedDe'
+global.sgc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd'
 global.sdc = 'https://discord.gg/WEJQjugTY7'
 global.snh = 'https://github.com/AzRyCb'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085795035419'
-global.povo = '085722037770'
-global.pgopay = '085722037770'
-global.ppulsa = '085722037770'
-global.ppulsa2 = '085795035419'
-global.psaweria = 'https://saweria.com/AzRyCb'
+global.pdana = '081251549899'
+global.povo = '081352848936'
+global.pgopay = '081352848936'
+global.ppulsa = '081251549899'
+global.ppulsa2 = '081352848936'
+global.psaweria = '"_"'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283879175089'
-global.nomorown = '6285795035419'
-global.namebot = 'AzBoTz'
-global.nameown = 'Az'
+global.nomorbot = '6282122977451'
+global.nomorown = '6281251549899'
+global.namebot = 'DaniBoTz'
+global.nameown = 'DaniGanz'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285750336781'],
-  ['6289688069444'],
-  ['6285795035419', '⌬ AzRyCb', true]
+  ['6281251549899'],
+  ['6281251549899'],
+  ['6281251549899', '⌬ DaniGanz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -112,13 +113,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 AzBoTz ⁩㊣ 」' //Main Watermark
-global.wm2 = '꒷꒥꒷ ‧₊˚ ꒰ฅ˘Lord - Khun˘ฅ ꒱ ‧₊˚꒷꒥꒷'
-global.wm3 = '⫹⫺ Az𝗕𝗢𝗧'
+global.wm = '                「 DaniBoTz ⁩㊣ 」' //Main Watermark
+global.wm2 = '꒷꒥꒷ ‧₊˚ ꒰ฅ˘Dani - Khun˘ฅ ꒱ ‧₊˚꒷꒥꒷'
+global.wm3 = '⫹⫺ Dani𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
-global.author = '                「 AzBoTz あ⁩ 」'
+global.author = '                「 DaniBoTz あ⁩ 」'
 
 
 /*============== LOGO ==============*/
