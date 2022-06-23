@@ -43,31 +43,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/azrycb'
+global.sig = '"_"'
 global.sgh = 'https://github.com/AzRyCb'
 global.sgc = 'https://chat.whatsapp.com/BYcW7rue6fA8gNdyLPedDe'
 global.sdc = 'https://discord.gg/WEJQjugTY7'
 global.snh = 'https://github.com/AzRyCb'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085795035419'
-global.povo = '085722037770'
-global.pgopay = '085722037770'
-global.ppulsa = '085722037770'
-global.ppulsa2 = '085795035419'
-global.psaweria = 'https://saweria.com/AzRyCb'
+global.pdana = '083803595389'
+global.povo = '083803595389'
+global.pgopay = '"_"'
+global.ppulsa = '083803595389'
+global.ppulsa2 = '"_"'
+global.psaweria = '"_"'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283879175089'
-global.nomorown = '6285795035419'
-global.namebot = 'AzBoTz'
-global.nameown = 'Az'
+global.nomorbot = '6283803595389'
+global.nomorown = '6283845930691'
+global.namebot = 'Botz Ezex'
+global.nameown = 'Ezex Store'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285750336781'],
-  ['6289688069444'],
-  ['6285795035419', '⌬ AzRyCb', true]
+  ['6283845930691'],
+  ['6283845930691'],
+  ['6283845930691', '⌬ Ezex Store', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -112,13 +112,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 AzBoTz ⁩㊣ 」' //Main Watermark
+global.wm = '                「 EzexBoTz ⁩㊣ 」' //Main Watermark
 global.wm2 = '꒷꒥꒷ ‧₊˚ ꒰ฅ˘Lord - Khun˘ฅ ꒱ ‧₊˚꒷꒥꒷'
-global.wm3 = '⫹⫺ Az𝗕𝗢𝗧'
+global.wm3 = '⫹⫺ Ezex𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
-global.author = '                「 AzBoTz あ⁩ 」'
+global.author = '                「 EzexBoTz あ⁩ 」'
 
 
 /*============== LOGO ==============*/
