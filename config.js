@@ -51,24 +51,24 @@ global.sdc = 'https://discord.gg/WEJQjugTY7'
 global.snh = 'https://github.com/Bot-Mdnew'
 
 /*============== PAYMENT ==============*/
-global.pdana = '081251549899'
-global.povo = '081352848936'
-global.pgopay = '081352848936'
-global.ppulsa = '081251549899'
-global.ppulsa2 = '081352848936'
+global.pdana = 'minta owner'
+global.povo = 'minta owner'
+global.pgopay = 'minta owner'
+global.ppulsa = 'minta owner'
+global.ppulsa2 = 'minta owner'
 global.psaweria = '"_"'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281542613150'
-global.nomorown = '6281251549899'
-global.namebot = 'DaniBoTz'
-global.nameown = 'DaniGanz'
+global.nomorbot = '62882002284704'
+global.nomorown = '6281939180428'
+global.namebot = 'ZANSB0T'
+global.nameown = 'ZANS STORE'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281251549899'],
-  ['6281251549899'],
-  ['6281251549899', '⌬ DaniGanz', true]
+  ['62882002284704'],
+  ['62882002284704'],
+  ['62882002284704', '⌬ ZANSB0T', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,13 +113,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 DaniBoTz ⁩㊣ 」' //Main Watermark
+global.wm = '                「 ZANSB0T ⁩㊣ 」' //Main Watermark
 global.wm2 = '꒷꒥꒷ ‧₊˚ ꒰ฅ˘Dani - Khun˘ฅ ꒱ ‧₊˚꒷꒥꒷'
-global.wm3 = '⫹⫺ Dani𝗕𝗢𝗧'
+global.wm3 = '⫹⫺ ZANS𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
-global.author = '                「 DaniBoTz あ⁩ 」'
+global.author = '                「 ZANSB0T あ⁩ 」'
 
 
 /*============== LOGO ==============*/
