@@ -59,16 +59,16 @@ global.ppulsa2 = 'minta owner'
 global.psaweria = '"_"'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62882002284704'
-global.nomorown = '6281939180428'
-global.namebot = 'ZANSB0T'
-global.nameown = 'ZANS STORE'
+global.nomorbot = '6287779567217'
+global.nomorown = '6287779567217'
+global.namebot = 'B0T.THEJO'
+global.nameown =  'THEJO🔥'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62882002284704'],
-  ['62882002284704'],
-  ['62882002284704', '⌬ ZANSB0T', true]
+  ['6287779567217'],
+  ['6287779567217'],
+  ['6287779567217', '⌬ BOT.THEJ0', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,13 +113,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ZANSB0T ⁩㊣ 」' //Main Watermark
+global.wm = '                「 B0T.THEJO ⁩㊣ 」' //Main Watermark
 global.wm2 = '꒷꒥꒷ ‧₊˚ ꒰ฅ˘Dani - Khun˘ฅ ꒱ ‧₊˚꒷꒥꒷'
-global.wm3 = '⫹⫺ ZANS𝗕𝗢𝗧'
+global.wm3 = '⫹⫺ 𝗕𝗢𝗧.THEJO'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
-global.author = '                「 ZANSB0T あ⁩ 」'
+global.author = '                「 B0T.THEJO あ⁩ 」'
 
 
 /*============== LOGO ==============*/
